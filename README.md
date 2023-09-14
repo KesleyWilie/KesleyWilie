@@ -3,7 +3,7 @@
 * 🔭 Estou trabalhando com Back-end
 * 🌱 Estou aprendendo Java, e Data & Analytics com AWS
 * 🏢 Estagiando na Compass UOL
-* 📧 Email: kesleywilie6@gmail.com
+* 📧 Email: kesleywilie6@gmail.co
 
 ##
 <picture>
