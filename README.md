@@ -27,8 +27,6 @@
 
 ### Github Profile Stats:
 
-### Github Profile Stats:
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=KesleyWilie&show_icons=true&theme=dracula"
@@ -41,5 +39,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KesleyWilie&show_icons=true" />
 </picture>
 
+#
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesleyWilie/KesleyWilie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KesleyWilie/KesleyWilie/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KesleyWilie/KesleyWilie/output/github-contribution-grid-snake.svg">
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=D21DAD&random=true&width=435&lines=Thanks+for+reading.+;Have+a+great+day)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
